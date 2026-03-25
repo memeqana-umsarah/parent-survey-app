@@ -2,3 +2,7 @@ streamlit
 pandas
 openpyxl
 pillow
+plotly
+reportlab
+arabic-reshaper
+python-bidi
